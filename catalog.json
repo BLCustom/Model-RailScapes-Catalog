@@ -1,0 +1,38 @@
+{
+  "res": {
+    "label": "Residential",
+    "color": "#52B3A8",
+    "items": [
+      { "name": "Craftsman House", "url": "" },
+      { "name": "Row Houses", "url": "" },
+      { "name": "Farmhouse & Barn", "url": "" }
+    ]
+  },
+  "com": {
+    "label": "Commercial",
+    "color": "#CFA24B",
+    "items": [
+      { "name": "Main St. Storefronts", "url": "" },
+      { "name": "Corner Bank", "url": "" },
+      { "name": "Diner", "url": "" }
+    ]
+  },
+  "ind": {
+    "label": "Industrial",
+    "color": "#6E8BA6",
+    "items": [
+      { "name": "Brick Warehouse", "url": "" },
+      { "name": "Engine House", "url": "" },
+      { "name": "Grain Elevator", "url": "" }
+    ]
+  },
+  "civic": {
+    "label": "Civic / Other",
+    "color": "#9A7C36",
+    "items": [
+      { "name": "Depot", "url": "" },
+      { "name": "Water Tower", "url": "" },
+      { "name": "Church", "url": "" }
+    ]
+  }
+}
